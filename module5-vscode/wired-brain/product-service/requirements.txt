@@ -1,5 +1,5 @@
-Flask==1.1.2
-Flask-SQLAlchemy==2.4.4
+Flask==2.2.3
+Flask-SQLAlchemy==3.0.3
 flask_mysqldb==0.2.0
-SQLAlchemy<1.4
-debugpy==1.2.1
+SQLAlchemy==2.0.8
+debugpy==1.6.6
